@@ -1,6 +1,4 @@
 package com.Matazor.quizApp.Controller;
-
-import com.Matazor.quizApp.Model.Question;
 import com.Matazor.quizApp.Model.QuestionWrapper;
 import com.Matazor.quizApp.Model.Response;
 import com.Matazor.quizApp.Service.QuizService;
